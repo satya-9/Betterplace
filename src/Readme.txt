@@ -1,6 +1,6 @@
 1)How to start
    1)Run npm start
-   2)There wil be three buttons displaying which we have to select gender,nationality,and number
+   2)There wil be three Dropdowns displaying which we have to select gender,nationality,and number
     of results which are to be displayed perpage.
    3)For image to popup just click the image to popup.
 2)How app building has went on
